@@ -1,6 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks,visualstudiocode
-
+notebooks/.DS_STORE
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
