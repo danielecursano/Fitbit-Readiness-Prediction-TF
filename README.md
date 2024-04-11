@@ -11,6 +11,7 @@ This repository contains code for predicting readiness using TensorFlow based on
 
 ## Repository Structure
 - `notebooks/`: Jupyter notebooks demonstrating data preprocessing, model training, and prediction.
+- `src/`: Python source code for vectorization and model prediction
 
 ## Contributors
 - Daniele Cursano
