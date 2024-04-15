@@ -9,6 +9,7 @@ src/.DS_STORE
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/__pycache__/*
 
 # IPython
 profile_default/
