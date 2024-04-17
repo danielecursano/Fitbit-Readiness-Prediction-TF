@@ -12,7 +12,6 @@ class Model:
             self.model.compile(optimizer="Adam")
 
     def predict(self, vector):
-        assert vector.shape == self.input_shape
         return self.model.predict(vector)
     
     def train(self, x_train, y_train, epochs=100, batch_size=32, validation_split=0.2):
