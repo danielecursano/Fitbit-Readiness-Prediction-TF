@@ -13,7 +13,6 @@ This repository contains code for predicting readiness using TensorFlow based on
 - `notebooks/`: Jupyter notebooks demonstrating data preprocessing, model training, and prediction.
 - `src/`: Python source code for vectorization and model prediction
 
-## Contributors
-- Daniele Cursano
-
-## License
+## To-Do
+- Obtain additional data to reduce model loss
+- Integrate FitBit API to retrive data and automate readiness prediction.
